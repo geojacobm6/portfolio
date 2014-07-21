@@ -1,0 +1,26 @@
+.bg-black{
+   background-color:#000000
+}
+
+.thmb-bg-clr{
+	background-color: #c9c9c9;
+}
+
+.clr-blk {
+	color: #505050;
+}
+.btn-drk-gry{
+	color: #fff;
+	text-shadow: none;
+    background-color:#7C7C7C
+	border: 1px solid #000;
+}
+
+.bg-drk-brwn{
+	background-color:#151515
+}
+
+.bdr-blk{
+	border: 3px solid rgb(0,0,0);
+	border-right: 1px solid #000000;
+}
